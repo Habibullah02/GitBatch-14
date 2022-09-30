@@ -6,6 +6,7 @@ public class Class03 {
 		// TODO Auto-generated method stub
   System.out.println(" this is new class");
   System.out.println(" hey this is my new change ");
+  System.out.println(" how are you");
 	}
 
 }
